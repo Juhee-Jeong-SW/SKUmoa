@@ -73,6 +73,9 @@
   * 도서관 좌석정보가 학술정보관 사이트에 있는데 학생들이 잘 모르기 때문에 보여주기 위함
 - 내용
   * 학술정보관 페이지에 있는 도서관 좌석정보(열람실 상태,전체좌석,사용좌석,잔여좌석,날짜)를 가져와 보여줌
+  
 
+## 구현 결과
+<img width="200" alt="그림1" src="https://user-images.githubusercontent.com/70262329/91384801-70828200-e86a-11ea-9249-734bb65bfffc.png"> <img width="200" alt="그림2" src="https://user-images.githubusercontent.com/70262329/91384803-71b3af00-e86a-11ea-9345-08d7b64bf3ef.png"> <img width="200" alt="그림3" src="https://user-images.githubusercontent.com/70262329/91384805-72e4dc00-e86a-11ea-8d44-9ebc46265a3b.png"> <img width="200" alt="그림4" src="https://user-images.githubusercontent.com/70262329/91384808-737d7280-e86a-11ea-888d-f0c2a0308b4c.png"> <img width="200" alt="그림5" src="https://user-images.githubusercontent.com/70262329/91384810-74ae9f80-e86a-11ea-90e5-524ce8df0cd1.png"> <img width="200" alt="그림6" src="https://user-images.githubusercontent.com/70262329/91384814-75dfcc80-e86a-11ea-9671-309777384782.png"> <img width="200" alt="그림7" src="https://user-images.githubusercontent.com/70262329/91384816-75dfcc80-e86a-11ea-8aaf-19295f363e9f.png"> <img width="200" alt="그림8" src="https://user-images.githubusercontent.com/70262329/91384818-76786300-e86a-11ea-95e7-79a2d84b5432.png"> <img width="200" alt="그림9" src="https://user-images.githubusercontent.com/70262329/91384819-7710f980-e86a-11ea-87cd-ae101699e026.png"> <img width="200" alt="그림10" src="https://user-images.githubusercontent.com/70262329/91384822-77a99000-e86a-11ea-8560-22aeeb02c2d1.png">
 
 2018-sku i&amp;c summer internship
